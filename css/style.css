@@ -17,9 +17,9 @@
 }
 
 .text-background {
-  /*font-style: italic;
-  color: blue;*/
-  display: none;
+  font-style: italic;
+  color: blue;
+  margin: 20px;
   background-color: yellow;
   border: 2px solid blue;
 }
