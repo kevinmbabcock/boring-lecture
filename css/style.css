@@ -1,7 +1,38 @@
-.intro{
+.first {
+  font-family: sans-serif;
+}
+
+.intro p {
   font-style: italic;
   color: orange;
 }
-.fish{
+
+.change {
+  font-style: italic;
+  color: blue;
+}
+
+.fish {
   color: red;
+}
+
+.text-background {
+  /*font-style: italic;
+  color: blue;*/
+  display: none;
+  background-color: yellow;
+  border: 2px solid blue;
+}
+
+.clickable {
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.yellow {
+  background-color: yellow;
 }
